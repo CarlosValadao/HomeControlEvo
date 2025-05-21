@@ -1,4 +1,4 @@
-# HomeControl - Automação Residencial 🏡
+# HomeControl - Automação Residencial 🏡 [Vídeo de apresentação](https://youtu.be/rXiZP0baalI)
 
 **HomeControl** é um sistema de automação residencial desenvolvido para a **Raspberry Pi Pico W**. Ele permite controlar dispositivos como ar-condicionado, bomba d'água e lâmpadas por meio de uma interface web acessível de qualquer dispositivo conectado à mesma rede Wi-Fi 🌐. Além disso, o sistema exibe informações como a **temperatura** interna da casa 🌡️ e o **nível de água** do tanque 💧. A plataforma foi projetada para ser eficiente, de fácil acesso e altamente escalável, tornando a automação residencial acessível e funcional.
 
