@@ -4,6 +4,13 @@
 
 O projeto foi desenvolvido utilizando **C**, a versão **2.1.0** do **Pico SDK**, a biblioteca **Light Weight IP (lwIP)** para comunicação Wi-Fi e **HTML** e **CSS** para a interface web. O código foi otimizado para ser leve e rápido, garantindo um desempenho sólido em sistemas embarcados com recursos limitados.
 
+## Configuração da Rede Wi-Fi 🔧
+
+Antes de executar qualquer código, configure o **SSID** e a **senha** da rede Wi-Fi nas macros `WIFI_SSID` e `WIFI_PASSWORD` no código fonte. Defina essas variáveis para a rede que você deseja que a **Raspberry Pi Pico W** se conecte.
+
+```#define WIFI_SSID "SuaRedeWiFi"
+   #define WIFI_PASSWORD "SuaSenhaWiFi"```
+
 ## Funcionalidades ⚙️
 
 ### 1. **Ar-Condicionado (Simulado por LED RGB) 🌈**
