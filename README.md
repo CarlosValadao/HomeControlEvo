@@ -8,8 +8,10 @@ O projeto foi desenvolvido utilizando **C**, a versão **2.1.0** do **Pico SDK**
 
 Antes de executar qualquer código, configure o **SSID** e a **senha** da rede Wi-Fi nas macros `WIFI_SSID` e `WIFI_PASSWORD` no código fonte. Defina essas variáveis para a rede que você deseja que a **Raspberry Pi Pico W** se conecte.
 
-```#define WIFI_SSID "SuaRedeWiFi"
-   #define WIFI_PASSWORD "SuaSenhaWiFi"```
+```
+#define WIFI_PASSWORD "SuaSenhaWiFi"
+#define WIFI_SSID "SuaRedeWiFi"
+```
 
 ## Funcionalidades ⚙️
 
